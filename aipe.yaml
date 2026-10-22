@@ -125,6 +125,9 @@
     "docs/curriculum-guide.md",
     "docs/plugin-installation.md",
     "docs/website-integration.md",
-    "docs/ecosystem-v0.1.md"
+    "docs/ecosystem-v0.1.md",
+    "docs/development.md",
+    "docs/learning-paths.md",
+    "docs/v0.2-implementation-report.md"
   ]
 }
